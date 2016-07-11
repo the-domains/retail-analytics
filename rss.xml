@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Retail Analytics]]></title>
+        <description><![CDATA[Retail Analytics]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 11 Jul 2016 10:49:17 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Privacy trade-offs in retail tracking]]></title>
+            <description><![CDATA[<article><h1>Privacy trade-offs in retail tracking</h1><p>Figure 1 Identifying customers that visit multiple retail locations for the same store(Source: Fast Company, " Here's What Brick-And-Mortar Stores See When They Track You ") Last week, the FTC announced a proposed settlement with Nomi Technologies, a retail tracking firm that monitors consumers' movements through stores, for failing to adhere to their opt-out promises.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ce14510eb09aba099b7898d73e53865a/noop.jpg?input=https%3A%2F%2Fwww.ftc.gov%2Fsites%2Fdefault%2Ffiles%2Fimages%2Fimages%2Fapr-30-2015-136pm%2Fbrick-mortar-stores-track-map.jpg"></article>]]></description>
+            <link>https://www.ftc.gov/news-events/blogs/techftc/2015/04/privacy-trade-offs-retail-tracking</link>
+            <guid isPermaLink="false">da092dbb-1ae9-46cd-9f1b-60393ea48224</guid>
+            <pubDate>Mon, 11 Jul 2016 10:49:15 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
