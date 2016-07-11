@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Retail Analytics]]></title>
         <description><![CDATA[Retail Analytics]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/retail-analytics/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Jul 2016 10:49:17 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 11 Jul 2016 10:52:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/retail-analytics/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[UK - ICO issues guidance on Wi-Fi location analytics | Lexology]]></title>
+            <description><![CDATA[<article><h1>UK - ICO issues guidance on Wi-Fi location analytics | Lexology</h1><p>United Kingdom March 1 2016 Earlier this month, the UK data protection authority, the Information Commissioner's Officer ("ICO"), published guidance on safely processing personal data derived from Wi-Fi location analytics. This guidance is important not only to retail businesses who provide Wi-Fi networks to their customers, but also to companies who just provide Wi-Fi access solely to their employees.</p><img src="http://www.lexology.com/images/share/lexology-facebook.png"></article>]]></description>
+            <link>http://www.lexology.com/library/detail.aspx?g=df9e3bf9-4d2f-4459-8048-9089b700349a</link>
+            <guid isPermaLink="false">953b32cf-8590-4a9f-a50f-b616f6631a9d</guid>
+            <pubDate>Mon, 11 Jul 2016 10:51:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Privacy trade-offs in retail tracking]]></title>
             <description><![CDATA[<article><h1>Privacy trade-offs in retail tracking</h1><p>Figure 1 Identifying customers that visit multiple retail locations for the same store(Source: Fast Company, " Here's What Brick-And-Mortar Stores See When They Track You ") Last week, the FTC announced a proposed settlement with Nomi Technologies, a retail tracking firm that monitors consumers' movements through stores, for failing to adhere to their opt-out promises.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ce14510eb09aba099b7898d73e53865a/noop.jpg?input=https%3A%2F%2Fwww.ftc.gov%2Fsites%2Fdefault%2Ffiles%2Fimages%2Fimages%2Fapr-30-2015-136pm%2Fbrick-mortar-stores-track-map.jpg"></article>]]></description>
